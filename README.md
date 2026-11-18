@@ -1,5 +1,7 @@
 # Console New Tab
 
+[![Get it on cmux](https://cmux.com/extensions/badge.svg)](https://cmux.com/setups/manaflow-ai/cmux-newtab-console-look)
+
 ![The Console New Tab page in light and dark](screenshots/after-few-light.png)
 
 A New Tab page like a console: a monospace field behind a `>` prompt, the tabs you closed last under it, and every chat as one monospace line, newest first: Chats or Projects, a filter (All, Working, Needs input, Done) and a search.
